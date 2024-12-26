@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Sales & Profitability Dashboard (snowflake)"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ba244ecc-ee60-485c-8b48-36da349273ef"
+  }
+}

@@ -1,0 +1,620 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 1296.89088164899,
+        "y": 403.596747401138
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 2766.7593527604731,
+            "y": 688.3560639175671
+          },
+          "nodeIndex": "Measures Table",
+          "nodeLineageTag": "bf1b9a2d-7d12-42b4-8e7c-fee6f9070991",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3050.7593527604731,
+            "y": 762.3560639175671
+          },
+          "nodeIndex": "Attributes",
+          "nodeLineageTag": "3ff64b00-871e-4b20-811b-32ebabf47d83",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 633.523638854457,
+            "y": 1320.6161558612662
+          },
+          "nodeIndex": "Business Group",
+          "nodeLineageTag": "792f0822-cf77-45e9-a838-8e4af5244b01",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1900.6576191340846,
+            "y": 575.31273681571452
+          },
+          "nodeIndex": "CM1/SAVPM Margin Per Unit",
+          "nodeLineageTag": "a6800e30-5bea-4390-ae8c-a9a844ad483e",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3334.7593527604731,
+            "y": 750.3560639175671
+          },
+          "nodeIndex": "Currency",
+          "nodeLineageTag": "1ac99a24-1287-43c1-a27f-26406bf63a48",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1291.5483679839117,
+            "y": 353.72724430499386
+          },
+          "nodeIndex": "Date Table",
+          "nodeLineageTag": "f801e3a4-761e-4b1f-ac4a-8e92dd1d7b4c",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 976.620613077911,
+            "y": 351.3350250994722
+          },
+          "nodeIndex": "Distribution Channel",
+          "nodeLineageTag": "665c31bc-2baf-4e0a-a74f-3ca734cbabc0",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 950.20196944138115,
+            "y": 1514.7121278351347
+          },
+          "nodeIndex": "EdmCompany dCompany",
+          "nodeLineageTag": "176714de-1944-4843-a0e6-59a4a0d7f89e",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 920.777206156591,
+            "y": 1087.4961125309076
+          },
+          "nodeIndex": "EdmCustomer dShipToCustomer",
+          "nodeLineageTag": "b8d3c3eb-a8a9-4303-9b7b-9ba18a4e4810",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1327.2465003750426,
+            "y": 710.6937364052618
+          },
+          "nodeIndex": "EdmCustomer dSoldToCustomer",
+          "nodeLineageTag": "fb2eac8e-5fd6-482d-8747-3aa404db8fae",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1210.0742797687021,
+            "y": 1036.1147063218509
+          },
+          "nodeIndex": "EdmMasterData dBusinessUnit",
+          "nodeLineageTag": "f4bcc681-4173-4008-a92e-ac4929edcedb",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3618.7593527604731,
+            "y": 714.3560639175671
+          },
+          "nodeIndex": "EdmMasterData dConversion",
+          "nodeLineageTag": "1a25527a-3423-48c5-8b0f-662711b9d9a0",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1616.6040070176175,
+            "y": 655.95859630198925
+          },
+          "nodeIndex": "EdmMasterData dCountry",
+          "nodeLineageTag": "afe2c28b-fb63-42d7-9a24-d3b4a831f90e",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 614.32811902080311,
+            "y": 1475.8571503356577
+          },
+          "nodeIndex": "EdmMasterData dDivision",
+          "nodeLineageTag": "ec86b46e-5798-487f-99dc-aeecb92960c2",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 589.69733009685456,
+            "y": 951.84725417393111
+          },
+          "nodeIndex": "EdmMasterData dExportIndicator",
+          "nodeLineageTag": "0d1b15cd-4c93-41e6-8d81-df1f25a394dc",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1240.1329756213709,
+            "y": 1432.2024819903017
+          },
+          "nodeIndex": "EdmMasterData dIncoterms",
+          "nodeLineageTag": "3eba5a15-fdee-46ef-a5ef-6353292cd4eb",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 110.27812424273986,
+            "y": 459.82727250133394
+          },
+          "nodeIndex": "EdmMasterData dMarketEndUse",
+          "nodeLineageTag": "35ce5e46-fdf9-4a89-a625-f920944268e6",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10,
+            "y": 956.40552866983842
+          },
+          "nodeIndex": "EdmMasterData dPackageType",
+          "nodeLineageTag": "25935438-8b33-43f2-9f9b-9a88c236b26a",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 299.85248042163573,
+            "y": 965.15843473632992
+          },
+          "nodeIndex": "EdmMasterData dProfitCenter",
+          "nodeLineageTag": "2711f126-d109-4ab3-8f6f-357824db21ac",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1165.8282989457039,
+            "y": -10
+          },
+          "nodeIndex": "EdmMasterData dSalesOrganisation",
+          "nodeLineageTag": "65367f14-ba8b-405e-a410-3bc59299fc49",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 335.5204515181731,
+            "y": 770.11643810151872
+          },
+          "nodeIndex": "EdmMasterData dSalesType",
+          "nodeLineageTag": "bd876f50-9885-4c31-ad60-daedfb8df0cb",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 689.99854052942442,
+            "y": 216.18493645504145
+          },
+          "nodeIndex": "EdmMasterData dTransportMode",
+          "nodeLineageTag": "67148b72-41b5-4468-ada6-97b2f494e03d",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 333.43988408885832,
+            "y": 1221.4303477410519
+          },
+          "nodeIndex": "EdmMaterial dMaterial",
+          "nodeLineageTag": "368e8cbb-143b-4016-b1be-6ce4bb5edce9",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 400.1396913639818,
+            "y": 279.37899624312195
+          },
+          "nodeIndex": "EdmPlant dPlant",
+          "nodeLineageTag": "334fde91-8dfe-41cf-a307-809df21fb4ca",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 878.994053062702,
+            "y": 730.57266928294848
+          },
+          "nodeIndex": "EdmSales vbSalesAndProfit",
+          "nodeLineageTag": "4dce9a22-bed2-43bd-9d64-e89fccd3a9f7",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1165.4039427874998,
+            "y": 170.22226199663783
+          },
+          "nodeIndex": "EdmVendor dVendor",
+          "nodeLineageTag": "7362b652-b0c4-4360-9e69-a7bb5140f951",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1580.014917428407,
+            "y": 224.77005648587556
+          },
+          "nodeIndex": "Final Destination County Zone",
+          "nodeLineageTag": "3521f236-2a10-4569-b1ac-8e4a3be3385e",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3902.7593527604731,
+            "y": 786.3560639175671
+          },
+          "nodeIndex": "Last Refreshed Date Time",
+          "nodeLineageTag": "4728d21e-d0d1-49ac-a7aa-34429ad27e4e",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2492.7593527604736,
+            "y": 744.90728340064823
+          },
+          "nodeIndex": "Profit name",
+          "nodeLineageTag": "0fd7884c-58bf-40d4-be51-60c4a6e3ccaf",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2191.3565498209414,
+            "y": 778.882489657309
+          },
+          "nodeIndex": "Profitability Matrix",
+          "nodeLineageTag": "65747b5f-449d-46b8-8c5c-11bad0d2544d",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2240.1310836283878,
+            "y": 1152.8536921604621
+          },
+          "nodeIndex": "Profitability Matrix - PY",
+          "nodeLineageTag": "d50f61c7-802d-435c-a7a3-a0150010b762",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1900.6040070176177,
+            "y": 779.21022471968854
+          },
+          "nodeIndex": "Profitability Matrix - PY YTD",
+          "nodeLineageTag": "a829d7bd-7076-47a8-ba57-612ed59319e8",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2436.9177690870692,
+            "y": 1355.0017674147791
+          },
+          "nodeIndex": "Profitability Matrix - YTD",
+          "nodeLineageTag": "86a15e2c-9477-4760-b318-cb1ab1a707f7",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1953.4337657442827,
+            "y": 983.090806789272
+          },
+          "nodeIndex": "PY CM1/SAVPM Margin Per Unit",
+          "nodeLineageTag": "1268e133-c8ae-4b35-9cdb-47d597531f89",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4186.7593527604731,
+            "y": 762.3560639175671
+          },
+          "nodeIndex": "Select KPI Measures",
+          "nodeLineageTag": "827b5482-b8a6-4f2b-a1ad-0141912ed496",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4470.7593527604731,
+            "y": 726.3560639175671
+          },
+          "nodeIndex": "Select Rank",
+          "nodeLineageTag": "76d189c0-30dd-43be-a466-eeff3e67d073",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4754.7593527604731,
+            "y": 774.3560639175671
+          },
+          "nodeIndex": "Sort Matrix Table",
+          "nodeLineageTag": "e7a72b79-64ad-4bc6-bc63-e1d37ae2d340",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5038.7593527604731,
+            "y": 774.3560639175671
+          },
+          "nodeIndex": "Source Table",
+          "nodeLineageTag": "a72a7527-605b-47f0-ae52-713a24cf6867",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2137.7292987702122,
+            "y": 351.97590171276556
+          },
+          "nodeIndex": "Top N CM1/SAVPM Margin Per Unit",
+          "nodeLineageTag": "63e6c383-19f4-40fa-aaf4-542c451c8487",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2492.7136980544028,
+            "y": 948.71727970547522
+          },
+          "nodeIndex": "Top N Profitability Matrix",
+          "nodeLineageTag": "0b7c22d7-1be5-4c10-8410-92e531c9e577",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2092.5093887890662,
+            "y": 149.71036042035507
+          },
+          "nodeIndex": "Top N Profitability Matrix - PY",
+          "nodeLineageTag": "e4166f9a-fd7b-44bd-8cc9-a063a944f192",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2424.3901764149123,
+            "y": 541.09749363110313
+          },
+          "nodeIndex": "Top N PY CM1/SAVPM Margin Per Unit",
+          "nodeLineageTag": "9390abf7-60dd-43fa-8368-168bb8c3d484",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5322.7593527604731,
+            "y": 762.3560639175671
+          },
+          "nodeIndex": "Units Conversion",
+          "nodeLineageTag": "6d916ded-8179-42e2-bfbb-8ad943a86fcd",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5596.7593527604731,
+            "y": 762.35606391756733
+          },
+          "nodeIndex": "Product or Material",
+          "nodeLineageTag": "b7fa31e3-5e48-4c66-88fb-dd5f2429e669",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5870.7593527604731,
+            "y": 738.35606391756733
+          },
+          "nodeIndex": "Show/Hide",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 74.331619848716883,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 1,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [],
+      "name": "Layout 1",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

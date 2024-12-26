@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Sales & Profitability Dashboard (sql)"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "40123db7-ad72-406e-9a35-616002685dc4"
+  }
+}
